@@ -1,0 +1,13 @@
+C:\C#\educationalProject\HSD_Simulation\HSD\bin\Debug\Database.mdf
+C:\C#\educationalProject\HSD_Simulation\HSD\bin\Debug\Database_log.ldf
+C:\C#\educationalProject\HSD_Simulation\HSD\bin\Debug\HSD.exe.config
+C:\C#\educationalProject\HSD_Simulation\HSD\bin\Debug\HSD.exe
+C:\C#\educationalProject\HSD_Simulation\HSD\bin\Debug\HSD.pdb
+C:\C#\educationalProject\HSD_Simulation\HSD\obj\Debug\HSD.csproj.AssemblyReference.cache
+C:\C#\educationalProject\HSD_Simulation\HSD\obj\Debug\HSD.csproj.SuggestedBindingRedirects.cache
+C:\C#\educationalProject\HSD_Simulation\HSD\obj\Debug\HSD.Form1.resources
+C:\C#\educationalProject\HSD_Simulation\HSD\obj\Debug\HSD.Properties.Resources.resources
+C:\C#\educationalProject\HSD_Simulation\HSD\obj\Debug\HSD.csproj.GenerateResource.cache
+C:\C#\educationalProject\HSD_Simulation\HSD\obj\Debug\HSD.csproj.CoreCompileInputs.cache
+C:\C#\educationalProject\HSD_Simulation\HSD\obj\Debug\HSD.exe
+C:\C#\educationalProject\HSD_Simulation\HSD\obj\Debug\HSD.pdb
